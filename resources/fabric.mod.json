@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "deccalware",
+  "version": "${version}",
+  "name": "DeccaL Ware",
+  "description": "Advanced Minecraft 1.21.4 Client Mod",
+  "authors": [
+    "DeccaL"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.deccalware.DeccaLWare"
+    ]
+  },
+  "mixins": [
+    "deccalware.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "fabric-api": "*",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  }
+}
+

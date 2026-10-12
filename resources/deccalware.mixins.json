@@ -1,0 +1,43 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.deccalware.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "deccalware.refmap.json",
+  "mixins": [
+    "accessors.IRenderLayer",
+    "accessors.IRenderPhase",
+    "BlockStateMixin",
+    "CameraMixin",
+    "ChatScreenMixin",
+    "ClientConnectionMixin",
+    "ClientPlayerEntityMixin",
+    "ClientPlayNetworkHandlerMixin",
+    "ClientPlayerInteractionManagerMixin",
+    "EntityDimensionsMixin",
+    "EntityMixin",
+    "EntityS2CPacketAccessor",
+    "FishingBobberEntityAccessor",
+    "GameRendererMixin",
+    "HeldItemRendererMixin",
+    "InGameHudMixin",
+    "InputMixin",
+    
+    "PostEffectPassMixin",
+    "KeyboardMixin",
+    "LivingEntityMixin",
+    "LivingEntityRendererMixin",
+    "MinecraftClientAccessor",
+    "MinecraftClientMixin",
+    "RenderTickCounterMixin",
+    "ShaderLoaderMixin",
+    "PlayerEntityMixin",
+    "WindowMixin",
+    "WorldRendererMixin",
+    "BackgroundRendererMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

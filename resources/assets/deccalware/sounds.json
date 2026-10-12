@@ -1,0 +1,86 @@
+{
+  "gui_click_left": {
+    "subtitle": "gui_click_left",
+    "sounds": [
+      "deccalware:gui_click_left"
+    ]
+  },
+  "gui_click_right": {
+    "subtitle": "gui_click_right",
+    "sounds": [
+      "deccalware:gui_click_right"
+    ]
+  },
+  "gui_close": {
+    "subtitle": "gui_close",
+    "sounds": [
+      "deccalware:gui_close"
+    ]
+  },
+  "gui_open": {
+    "subtitle": "gui_open",
+    "sounds": [
+      "deccalware:gui_open"
+    ]
+  },
+  "module_disable": {
+    "subtitle": "module_disable",
+    "sounds": [
+      "deccalware:module_disable"
+    ]
+  },
+  "module_enable": {
+    "subtitle": "module_enable",
+    "sounds": [
+      "deccalware:module_enable"
+    ]
+  },
+  "slider_step": {
+    "subtitle": "slider_step",
+    "sounds": [
+      "deccalware:slider_step"
+    ]
+  },
+  "anime": {
+    "subtitle": "anime",
+    "sounds": [
+      "deccalware:hitsound/anime"
+    ]
+  },
+  "hitmaker": {
+    "subtitle": "hitmaker",
+    "sounds": [
+      "deccalware:hitsound/hitmaker"
+    ]
+  },
+  "loud": {
+    "subtitle": "loud",
+    "sounds": [
+      "deccalware:hitsound/loud"
+    ]
+  },
+  "bell": {
+    "subtitle": "bell",
+    "sounds": [
+      "deccalware:hitsound/bell"
+    ]
+  },
+  "bonk": {
+    "subtitle": "bonk",
+    "sounds": [
+      "deccalware:hitsound/bonk"
+    ]
+  },
+  "bubble": {
+    "subtitle": "bubble",
+    "sounds": [
+      "deccalware:hitsound/bubble"
+    ]
+  },
+  "metallic": {
+    "subtitle": "metallic",
+    "sounds": [
+      "deccalware:hitsound/metallic"
+    ]
+  }
+}
